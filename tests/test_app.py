@@ -20,4 +20,4 @@ class TestApp:
         assert res == numbers[0]
     
     def test_area_last_digits(self):
-        assert calculate_area(43) == 184
+        assert calculate_area(43) == 1849
